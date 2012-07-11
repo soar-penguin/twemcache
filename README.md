@@ -170,3 +170,5 @@ Copyright 2003, Danga Interactive, Inc.
 Copyright 2012 Twitter, Inc.
 
 Licensed under the New BSD License, see the LICENSE file.
+
+Blog: http://engineering.twitter.com/2012/07/caching-with-twemcache.html
